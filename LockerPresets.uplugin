@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.1.0-dev",
 	"FriendlyName": "Locker Presets",
 	"Description": "Adds full character customization presets to the locker.",
 	"Category": "Modding",
@@ -21,7 +21,7 @@
 			"SemVersion": "^3.11.3"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.1.0-dev",
 	"GameVersion": ">=416835",
 	"RequiredOnRemote": false
 }
